@@ -18,9 +18,10 @@ This Journal is a web application that allows users to create and manage their d
    ```bash
    git clone https://github.com/chenkrichelly/Daily-Journal-Blog.git
 2. Navigate to the project directory and install dependencies:
+   
    ```bash
-  cd Daily-Journal-Blog
-  npm install
+   cd Daily-Journal-Blog
+  npm install  
 3. Start the development server:
    ```bash
    npm start
