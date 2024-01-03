@@ -22,7 +22,9 @@ This Journal is a web application that allows users to create and manage their d
    ```bash
    cd Daily-Journal-Blog
   npm install  
+  
 3. Start the development server:
    ```bash
    npm start
+
 4. Open your web browser and go to http://localhost:3000 to view the application.
